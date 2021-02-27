@@ -18,6 +18,7 @@
   "displayName": "Fabricdustry",
   "author": "kb1000",
   "description": "A Mindustry mod to reload Mindustry with Fabric",
+  "java": "true",
   "version": "0.0.1",
   "main": "de.kb1000.fabricmd.hackloader.HackLoaderMod",
   "minGameVersion": "123.1"
