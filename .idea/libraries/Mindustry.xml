@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Mindustry">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Mindustry/jre/desktop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Sources/Arc/arc-core/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/backends/backend-sdl/src/main/java" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/arcnet/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/freetype/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/fx/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/g3d/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/packer/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/recorder/src" />
+      <root url="file://$USER_HOME$/Sources/Arc/extensions/typelabel/src" />
+      <root url="file://$USER_HOME$/Sources/Mindustry/annotations/src/main/java" />
+      <root url="file://$USER_HOME$/Sources/Mindustry/core/src" />
+      <root url="file://$USER_HOME$/Sources/Mindustry/desktop/src" />
+    </SOURCES>
+  </library>
+</component>

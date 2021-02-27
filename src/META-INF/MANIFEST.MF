@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: de.kb1000.fabricmd.hackloader
+Sealed: true
+
+Name: de.kb1000.fabricmd.hackloader.accessor
+Sealed: true
+
+Name: de.kb1000.fabricmd.hackloader.post
+Sealed: true
+
