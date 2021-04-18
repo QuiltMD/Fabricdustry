@@ -1,3 +1,11 @@
+!/gradle/wrapper/gradle-wrapper.jar
 *.class
 *.jar
+*.iml
+*.ipr
+*.iws
+.gradle
+/build/
 /out/
+.idea/*
+!idea/codeStyles
